@@ -29,7 +29,7 @@ class MyStatelessWidget extends StatelessWidget {
                   ),
                   new MyCard(
                       title: new Text("ayushi", style: new TextStyle(fontSize: 20.0)),
-                      icon: new Icon(Icons.donut_large, size: 40.0, color: Colors.brown)
+                      icon: new Icon(Icons.donut_large, size: 40.0, color: Colors.yellow)
                   ),
                   new MyCard(
                       title: new Text("007", style: new TextStyle(fontSize: 20.0)),
