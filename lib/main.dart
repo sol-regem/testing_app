@@ -33,7 +33,7 @@ class MyStatelessWidget extends StatelessWidget {
                   ),
                   new MyCard(
                       title: new Text("007", style: new TextStyle(fontSize: 20.0)),
-                      icon: new Icon(Icons.visibility, size: 40.0, color: Colors.blue)
+                      icon: new Icon(Icons.visibility, size: 40.0, color: Colors.green)
                   )
                 ]
             )
